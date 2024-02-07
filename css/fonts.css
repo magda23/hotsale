@@ -1,0 +1,226 @@
+@font-face {
+  font-family: "BPG ExtraSquare Mtavruli";
+  src: url("../fonts/BPGExtraSquareMtavruli.eot");
+  src: url("../fonts/BPGExtraSquareMtavruli.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/BPGExtraSquareMtavruli.woff2") format("woff2"),
+    url("../fonts/BPGExtraSquareMtavruli.woff") format("woff"),
+    url("../fonts/BPGExtraSquareMtavruli.ttf") format("truetype"),
+    url("../fonts/BPGExtraSquareMtavruli.svg#BPGExtraSquareMtavruli")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "BPG Mrgvlovani";
+  src: url("../fonts/BPGMrgvlovani.eot");
+  src: url("../fonts/BPGMrgvlovani.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/BPGMrgvlovani.woff2") format("woff2"),
+    url("../fonts/BPGMrgvlovani.woff") format("woff"),
+    url("../fonts/BPGMrgvlovani.ttf") format("truetype"),
+    url("../fonts/BPGMrgvlovani.svg#BPGMrgvlovani") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "BPG Nino Mtavruli bd";
+  src: url("../fonts/BPGNinoMtavruli-Bold.eot");
+  src: url("../fonts/BPGNinoMtavruli-Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/BPGNinoMtavruli-Bold.woff2") format("woff2"),
+    url("../fonts/BPGNinoMtavruli-Bold.woff") format("woff"),
+    url("../fonts/BPGNinoMtavruli-Bold.ttf") format("truetype"),
+    url("../fonts/BPGNinoMtavruli-Bold.svg#BPGNinoMtavruli-Bold") format("svg");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BPG Nino Mtavruli";
+  src: url("../fonts/BPGNinoMtavruli.eot");
+  src: url("../fonts/BPGNinoMtavruli.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/BPGNinoMtavruli.woff2") format("woff2"),
+    url("../fonts/BPGNinoMtavruli.woff") format("woff"),
+    url("../fonts/BPGNinoMtavruli.ttf") format("truetype"),
+    url("../fonts/BPGNinoMtavruli.svg#BPGNinoMtavruli") format("svg");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Brush Script MT";
+  src: url("../fonts/BrushScriptMT.eot");
+  src: url("../fonts/BrushScriptMT.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/BrushScriptMT.woff2") format("woff2"),
+    url("../fonts/BrushScriptMT.woff") format("woff"),
+    url("../fonts/BrushScriptMT.ttf") format("truetype"),
+    url("../fonts/BrushScriptMT.svg#BrushScriptMT") format("svg");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Poppins thin";
+  src: url("../fonts/Poppins-Thin.eot");
+  src: url("../fonts/Poppins-Thin.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Poppins-Thin.woff2") format("woff2"),
+    url("../fonts/Poppins-Thin.woff") format("woff"),
+    url("../fonts/Poppins-Thin.ttf") format("truetype"),
+    url("../fonts/Poppins-Thin.svg#Poppins-Thin") format("svg");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Poppins rg";
+  src: url("../fonts/Poppins-Regular.eot");
+  src: url("../fonts/Poppins-Regular.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Poppins-Regular.woff2") format("woff2"),
+    url("../fonts/Poppins-Regular.woff") format("woff"),
+    url("../fonts/Poppins-Regular.ttf") format("truetype"),
+    url("../fonts/Poppins-Regular.svg#Poppins-Regular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BPG Glaho";
+  src: url("../fonts/BPGGlaho.eot");
+  src: url("../fonts/BPGGlaho.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/BPGGlaho.woff2") format("woff2"),
+    url("../fonts/BPGGlaho.woff") format("woff"),
+    url("../fonts/BPGGlaho.ttf") format("truetype"),
+    url("../fonts/BPGGlaho.svg#BPGGlaho") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Segoe UI";
+  src: url("../fonts/SegoeUI.eot");
+  src: url("../fonts/SegoeUI.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/SegoeUI.woff2") format("woff2"),
+    url("../fonts/SegoeUI.woff") format("woff"),
+    url("../fonts/SegoeUI.ttf") format("truetype"),
+    url("../fonts/SegoeUI.svg#SegoeUI") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "DejaVu Sans";
+  src: url("../fonts/DejaVuSans.eot");
+  src: url("../fonts/DejaVuSans.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/DejaVuSans.woff2") format("woff2"),
+    url("../fonts/DejaVuSans.woff") format("woff"),
+    url("../fonts/DejaVuSans.ttf") format("truetype"),
+    url("../fonts/DejaVuSans.svg#DejaVuSans") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BPG Nino Beqa";
+  src: url("../fonts/BPGNinoBeqa-Bold.eot");
+  src: url("../fonts/BPGNinoBeqa-Bold.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/BPGNinoBeqa-Bold.woff2") format("woff2"),
+    url("../fonts/BPGNinoBeqa-Bold.woff") format("woff"),
+    url("../fonts/BPGNinoBeqa-Bold.ttf") format("truetype"),
+    url("../fonts/BPGNinoBeqa-Bold.svg#BPGNinoBeqa-Bold") format("svg");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "BPG WEB 001 Caps";
+  src: url("../fonts/bpg-web-001-caps-webfont.eot");
+  src: url("../fonts/bpg-web-001-caps-webfont.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/bpg-web-001-caps-webfont.woff2") format("woff2"),
+    url("../fonts/bpg-web-001-caps-webfont.woff") format("woff"),
+    url("../fonts/bpg-web-001-caps-webfont.ttf") format("truetype"),
+    url("../fonts/bpg-web-001-caps-webfont.svg#bpg_web_001_capsregular")
+      format("svg");
+}
+
+@font-face {
+  font-family: "FiraGO";
+  src: url("../fonts/FiraGO-Regular.eot");
+  src: url("../fonts/FiraGO-Regular.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/FiraGO-Regular.woff2") format("woff2"),
+    url("../fonts/FiraGO-Regular.woff") format("woff"),
+    url("../fonts/FiraGO-Regular.ttf") format("truetype"),
+    url("../fonts/FiraGO-Regular.svg#FiraGO-Regular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "FiraGO sb";
+  src: url("../fonts/FiraGO-SemiBold.eot");
+  src: url("../fonts/FiraGO-SemiBold.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/FiraGO-SemiBold.woff2") format("woff2"),
+    url("../fonts/FiraGO-SemiBold.woff") format("woff"),
+    url("../fonts/FiraGO-SemiBold.ttf") format("truetype"),
+    url("../fonts/FiraGO-SemiBold.svg#FiraGO-SemiBold") format("svg");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "BPG WEB 001";
+  src: url("../fonts/bpg-web-001-webfont.eot");
+  src: url("../fonts/bpg-web-001-webfont.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/bpg-web-001-webfont.woff2") format("woff2"),
+    url("../fonts/bpg-web-001-webfont.woff") format("woff"),
+    url("../fonts/bpg-web-001-webfont.ttf") format("truetype"),
+    url("../fonts/bpg-web-001-webfont.svg#bpg_web_001regular") format("svg"); /* Legacy iOS */
+}
+@font-face {
+  font-family: "FiraGO light";
+  src: url("../fonts/FiraGO-Light.eot");
+  src: url("../fonts/FiraGO-Light.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/FiraGO-Light.woff2") format("woff2"),
+    url("../fonts/FiraGO-Light.woff") format("woff"),
+    url("../fonts/FiraGO-Light.ttf") format("truetype"),
+    url("../fonts/FiraGO-Light.svg#FiraGO-Light") format("svg");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "FiraGO ExtraLight";
+  src: url("../fonts/FiraGO-ExtraLight.eot");
+  src: url("../fonts/FiraGO-ExtraLight.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/FiraGO-ExtraLight.woff2") format("woff2"),
+    url("../fonts/FiraGO-ExtraLight.woff") format("woff"),
+    url("../fonts/FiraGO-ExtraLight.ttf") format("truetype"),
+    url("../fonts/FiraGO-ExtraLight.svg#FiraGO-ExtraLight") format("svg");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "FiraGO medium";
+  src: url("../fonts/FiraGO-Medium.eot");
+  src: url("../fonts/FiraGO-Medium.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/FiraGO-Medium.woff2") format("woff2"),
+    url("../fonts/FiraGO-Medium.woff") format("woff"),
+    url("../fonts/FiraGO-Medium.ttf") format("truetype"),
+    url("../fonts/FiraGO-Medium.svg#FiraGO-Medium") format("svg");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}

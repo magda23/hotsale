@@ -1,0 +1,8 @@
+<svg id="printer-machine-variant-with-paper-prints" xmlns="http://www.w3.org/2000/svg" width="11.952" height="9.318" viewBox="0 0 11.952 9.318">
+  <g id="Group_873" data-name="Group 873" transform="translate(0 0)">
+    <path id="Path_632" data-name="Path 632" d="M1.073,44.419h9.806a1.073,1.073,0,0,0,1.073-1.073V39.821a1.073,1.073,0,0,0-1.073-1.073h-1.2L9.5,35.1H2.439l-.176,3.646H1.073A1.073,1.073,0,0,0,0,39.821v3.526A1.073,1.073,0,0,0,1.073,44.419Zm8.448-.608H2.228V42.6H9.521Zm1.546-3.333a.286.286,0,1,1-.286.286A.286.286,0,0,1,11.068,40.479Zm-9.244-.921h.6l.039-.81L2.632,35.3H9.308l.166,3.444.039.81h.616a.2.2,0,0,1,0,.405H1.823a.2.2,0,1,1,0-.405Z" transform="translate(0 -35.101)" fill="#717171"/>
+    <rect id="Rectangle_617" data-name="Rectangle 617" width="5.064" height="0.405" transform="translate(3.444 1.215)" fill="#717171"/>
+    <rect id="Rectangle_618" data-name="Rectangle 618" width="5.064" height="0.405" transform="translate(3.444 2.228)" fill="#717171"/>
+    <path id="Path_633" data-name="Path 633" d="M66.218,240.705H70.27v.405h1.418v-.81H64.8v.81h1.418Z" transform="translate(-62.369 -232.602)" fill="#717171"/>
+  </g>
+</svg>

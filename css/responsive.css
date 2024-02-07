@@ -1,0 +1,1228 @@
+@media (min-width: 1280px) {
+  .container {
+    max-width: 1250px;
+  }
+}
+
+@media (min-width: 1370px) {
+  .container {
+    max-width: 1366px;
+  }
+}
+
+@media (min-width: 1650px) {
+  .container {
+    max-width: 1650px;
+  }
+}
+
+@media (max-width: 1650px) {
+  .company_title {
+    height: 35px;
+    -webkit-line-clamp: 2;
+  }
+
+  .category_left_side {
+    width: 260px;
+  }
+
+  .category_right_side {
+    padding-left: 23%;
+  }
+
+  .s1 .company_ {
+    right: 5px;
+  }
+
+  .suggestion_type,
+  .suggestion_range,
+  .suggestion_location,
+  .offer_,
+  .popular_items,
+  .sort_by_price,
+  .rate_ {
+    margin-bottom: 10px;
+  }
+
+  .deal_choose_quantity p {
+    height: 25px;
+  }
+
+  .user_profile {
+    padding: 20px;
+  }
+
+  .user_image {
+    position: initial;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .offer_top_block {
+    margin-bottom: 20px;
+  }
+
+  .img,
+  .deal_explain {
+    width: 50%;
+  }
+
+  .img {
+    height: 200px;
+    margin-right: 20px;
+  }
+
+  .suggestion_card {
+    flex-wrap: wrap;
+    justify-content: initial;
+  }
+
+  .deal_qunatity_items {
+    border: none;
+    margin-right: 50px;
+  }
+
+  .date_ {
+    margin-bottom: 10px;
+  }
+
+  .user_profile_deals_block {
+    flex-direction: column;
+  }
+
+  .edit_profile,
+  .edit_password {
+    width: 100%;
+    padding: 0;
+    border: none;
+  }
+
+  .edit_user_inputs {
+    width: 45%;
+  }
+
+  .edit_user_inputs input {
+    width: 100%;
+  }
+
+  .edit_profile {
+    margin-bottom: 40px;
+  }
+
+  .edit_password .edit_user_inputs input {
+    height: 46px;
+  }
+
+  .registration_inner_ {
+    padding: 20px;
+  }
+
+  .category_icon_ img {
+    width: 20px;
+  }
+
+  .title_ {
+    font-size: 16px;
+  }
+
+  .category_title {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 1500px) {
+  .suggestion_location,
+  .popular_items {
+    width: 120px !important;
+  }
+
+  .range {
+    width: 305px;
+    font-size: 12px;
+  }
+
+  .range__slider {
+    width: 35%;
+  }
+
+  .range__value {
+    width: 36px;
+    height: 30px;
+  }
+
+  .filter_block .category_sort_items {
+    font-size: 12px;
+  }
+
+  .rating_num {
+    font-size: 12px;
+  }
+
+  .total_p {
+    font-size: 16px;
+  }
+
+  .price_deal {
+    width: 60px;
+  }
+
+  .qunatity_p,
+  .price_deal {
+    font-size: 12px;
+  }
+
+  .food_inside_choose_block .product_num_input {
+    width: 85px;
+    margin-right: 10px;
+    font-size: 12px;
+  }
+
+  .product_num_input input {
+    padding-left: 10px;
+  }
+
+  .btn_ {
+    font-size: 14px;
+  }
+
+  .company_header_icon {
+    width: 200px;
+    height: 200px;
+  }
+
+  .company_header_name,
+  .company_main_info_footer .deal_company_info {
+    margin-left: 220px;
+  }
+
+  .company_header_name {
+    font-size: 20px;
+  }
+
+  .company_main_info_footer .deal_company_ {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 1400px) {
+  .company_title {
+    height: 35px;
+    -webkit-line-clamp: 2;
+  }
+
+  .top_new_price {
+    font-size: 18px;
+  }
+
+  .old_price_ {
+    font-size: 14px;
+  }
+
+  .enjoy_deals {
+    right: -5px;
+  }
+
+  .category-card-count {
+    right: -10px;
+  }
+
+  .filter_block {
+    justify-content: initial;
+  }
+
+  .suggestion_type,
+  .suggestion_range,
+  .suggestion_location,
+  .offer_,
+  .popular_items,
+  .sort_by_price {
+    margin-right: 10px;
+  }
+
+  .category_sort,
+  .search_input_block,
+  .search_btn {
+    z-index: initial;
+  }
+
+  /* .category_menu{
+        display: none;
+    } */
+  /* .bg_active{
+        display: none;
+    } */
+  .total_p {
+    font-size: 16px;
+  }
+
+  .rating {
+    font-size: 14px;
+  }
+
+  .suggestion_information {
+    padding: 15px 12px;
+  }
+}
+
+@media (max-width: 1370px) {
+  .confirmation_items input,
+  .address_pin_block {
+    font-size: 12px;
+  }
+  .range {
+    width: 400px;
+  }
+  .suggestion_type {
+    width: 200px !important;
+  }
+  .suggestion_location,
+  .popular_items {
+    width: 120px !important;
+  }
+  .category_left_side {
+    width: 250px;
+  }
+
+  .category_right_side {
+    padding-left: 24%;
+  }
+
+  .sort_box {
+    justify-content: center;
+  }
+
+  .category_sort,
+  .search_input_block {
+    margin-bottom: 10px;
+    margin-right: 15px;
+  }
+
+  .search_input_block,
+  .search_btn {
+    margin-bottom: 10px !important;
+  }
+
+  .inner_main_block .company_,
+  .s1 .company_ {
+    width: 50px;
+    height: 50px;
+    right: 3px;
+    bottom: -20px;
+  }
+
+  .company_ {
+    width: 50px;
+    height: 50px;
+    right: 10px;
+    bottom: -20px;
+  }
+
+  .inner_page_block {
+    height: auto;
+  }
+
+  .deal_company_info {
+    flex-wrap: wrap;
+  }
+
+  .deal_company_,
+  .deal_company_social_block {
+    margin: 0 15px 15px 0;
+  }
+
+  .add_code_input {
+    width: 70%;
+  }
+
+  .add_code_input input {
+    width: 100%;
+  }
+
+  .check_code_btn {
+    width: 30%;
+  }
+
+  .offer_info,
+  .offer_right_side {
+    padding: 15px;
+  }
+
+  .offer_ul li {
+    margin-bottom: 10px;
+  }
+}
+
+@media (max-width: 1280px) {
+  .nav_ul {
+    margin-right: 0;
+  }
+
+  .category_left_side {
+    width: 20%;
+  }
+
+  .company_main_info_footer .deal_company_info {
+    justify-content: initial !important;
+  }
+
+  .user_profile_info {
+    justify-content: center;
+  }
+
+  .user_name,
+  .user_email,
+  .user_mobile,
+  .transaction_info {
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+
+  .news_deal_box .suggestion_img {
+    height: 140px;
+  }
+
+  .category_sort_box .select-styled::after {
+    content: none;
+  }
+
+  .food_inside_choose_block .product_num_input {
+    width: 70px;
+    margin-right: 10px;
+    margin-left: 5px;
+  }
+
+  .product_num_input input {
+    padding: 0 10px;
+  }
+
+  .number_btns {
+    right: 2px;
+  }
+
+  .deals_right_side {
+    padding: 15px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .mobile_menu_block {
+    display: none;
+  }
+
+  .mobile_menu {
+    display: none;
+  }
+}
+
+@media (max-width: 1200px) {
+  header {
+    padding: 0;
+  }
+
+  .header_block {
+    position: initial;
+  }
+
+  .category_menu {
+    display: none;
+  }
+
+  .price_deal {
+    font-size: 14px;
+  }
+
+  .category_left_side,
+  .header_nav {
+    display: none !important;
+  }
+  .vip_header_nav {
+    display: flex !important;
+  }
+  .category_right_side {
+    padding: 0;
+  }
+
+  .title__ {
+    text-align: center;
+  }
+
+  .category_ {
+    box-shadow: none;
+  }
+
+  .category_ul {
+    width: 100%;
+  }
+
+  .category_li {
+    padding-left: 0;
+  }
+
+  .s1 .percent_block {
+    left: -5px;
+  }
+
+  .nav_ul {
+    flex-wrap: wrap;
+  }
+
+  .nav_li {
+    margin-bottom: 10px;
+  }
+
+  .title_ {
+    margin: 15px 0;
+    text-decoration: underline;
+  }
+
+  .mobile_menu_block {
+    display: block;
+  }
+
+  .mobile_menu {
+    display: block;
+  }
+
+  .category_li:hover {
+    background-color: transparent;
+  }
+
+  .popular_section {
+    margin: 0;
+  }
+
+  .news_deal_box .suggestion_img {
+    height: 200px;
+  }
+
+  .s1 .suggestion_img {
+    height: 214px;
+  }
+
+  .enjoy_top,
+  .enjoy_bottom {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .travel_items {
+    flex-wrap: wrap;
+  }
+
+  .travel_sort {
+    height: 200px;
+    width: 48%;
+    margin-bottom: 30px;
+  }
+
+  .news_deal_ul {
+    overflow-x: scroll;
+  }
+
+  .news_deal_li {
+    margin-right: 10px;
+  }
+
+  .title_box {
+    margin: 30px 0;
+  }
+
+  .blog_title {
+    font-size: 20px;
+  }
+
+  .food_inside_choose_block .product_num_input {
+    margin-right: 15px;
+    width: 85px;
+  }
+
+  .user_profile_deals_block {
+    flex-wrap: wrap;
+  }
+
+  .edit_profile,
+  .edit_password {
+    width: 100%;
+    padding: 0;
+  }
+
+  .edit_profile {
+    height: initial;
+  }
+}
+
+@media (max-width: 991px) {
+  .tips_block {
+    flex-direction: column;
+    align-items: initial;
+  }
+
+  .save_more {
+    margin: 20px 0 0 0;
+  }
+
+  .footer_title {
+    font-size: 16px;
+  }
+
+  .footer_ul li {
+    font-size: 14px;
+  }
+
+  .search_input_block,
+  .search_btn {
+    margin-right: 15px;
+  }
+
+  .search_btn {
+    margin-bottom: 10px;
+  }
+
+  .category_mobile_ {
+    height: 700px;
+  }
+
+  .news_deal_a {
+    padding: 10px 5px;
+  }
+
+  .reverse_row {
+    flex-direction: column-reverse;
+  }
+
+  .blog_info_block {
+    padding: 30px;
+  }
+
+  .thumbnail-image {
+    padding-right: 10px;
+  }
+
+  .slick-arrow {
+    width: 20px;
+    height: 20px;
+  }
+
+  .slick-next.slick-arrow {
+    background-position: center -10px, center;
+  }
+
+  .slick-prev.slick-arrow {
+    background-position: center -5px;
+  }
+
+  .deal_choose_quantity p {
+    height: initial;
+  }
+
+  .company_title {
+    font-size: 16px;
+  }
+
+  .active_section_block {
+    justify-content: center;
+  }
+
+  .active_deals {
+    font-size: 14px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+
+  .active_deals:last-child {
+    margin-right: 0;
+  }
+
+  .company_active_section {
+    padding-top: 0;
+  }
+
+  .company_banner_block {
+    height: 300px;
+  }
+
+  .company_main_content {
+    position: initial;
+  }
+
+  .company_information_items {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .company_header_name {
+    margin-left: 20px;
+    color: #00b3f6;
+  }
+
+  .company_main_info_footer {
+    background-color: initial;
+    box-shadow: none;
+    padding: 15px 0;
+  }
+
+  .company_main_info_footer .deal_company_info {
+    margin: 0;
+    justify-content: center !important;
+  }
+
+  .company_header_icon {
+    width: 150px;
+    position: initial;
+    height: 150px;
+  }
+
+  .company_main_info_header {
+    background-color: initial;
+    padding: 15px 0 0 0;
+  }
+
+  .deal_company_social_block {
+    margin-right: 0;
+  }
+
+  .profile_btn_block {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .profile_page_a {
+    width: 48%;
+  }
+
+  .profile_btn {
+    justify-content: center;
+  }
+
+  .my_cart_block .deal_qunatity_items {
+    padding: 0;
+  }
+
+  .rating_btn {
+    padding: 0 5px;
+  }
+
+  .registration_inner_ {
+    width: 100%;
+  }
+
+  .registration_wrapper {
+    flex-direction: column;
+    box-shadow: none;
+  }
+
+  .registration_inner_ {
+    margin-bottom: 50px;
+  }
+}
+
+@media (max-width: 767px) {
+  .address_info_block {
+    flex-wrap: wrap;
+  }
+  .confirmation_items,
+  .address_pin_block {
+    width: 100%;
+  }
+  .hero_section {
+    height: 300px;
+  }
+
+  .sort_box .category_sort,
+  .search_input_block,
+  .search_btn {
+    width: 180px;
+  }
+
+  .hero_section_block {
+    padding-top: 35px;
+  }
+
+  .title__ {
+    font-size: 30px;
+  }
+
+  .footer_logo {
+    width: 100%;
+    height: initial;
+  }
+
+  .deal_info_block {
+    width: 100%;
+  }
+
+  .footer_logo {
+    margin: 0;
+  }
+
+  .category_mobile_ {
+    height: 400px;
+  }
+
+  .img_ {
+    height: 220px;
+  }
+
+  .category-card-title {
+    font-size: 27px;
+    bottom: 110px;
+    right: 10px;
+  }
+
+  .category-card-count {
+    bottom: 40px;
+    font-size: 12px;
+    font-family: "BPG Glaho";
+    color: #fff;
+    background-color: #00b3f6;
+    padding: 14px 20px;
+    border-radius: 5px;
+    margin-right: 0;
+    display: inline-block;
+  }
+
+  .overlay_,
+  .img_,
+  .img_::before,
+  .hover_effect::before {
+    border-radius: 10px;
+  }
+
+  .location_items {
+    height: 300px;
+  }
+
+  .enjoy_items {
+    height: 210px;
+  }
+
+  .top_suggestion .company_ {
+    width: 50px;
+    height: 50px;
+    right: 3px;
+    bottom: -20px;
+  }
+
+  .top_new_price {
+    font-size: 18px;
+  }
+
+  .save_block {
+    border: none;
+    padding-bottom: 0;
+  }
+
+  .deals_right_side .rating {
+    position: initial;
+  }
+
+  .percent_block,
+  .rating,
+  .deal_statistics {
+    position: absolute;
+  }
+
+  .rating {
+    left: 35px;
+    top: 10px;
+  }
+
+  .s1 .rating {
+    left: 20px;
+  }
+
+  .recommended_deal_slider {
+    padding: 0 15px;
+  }
+
+  .s3 .percent_block,
+  .s3 .rating,
+  .s3 .deal_statistics {
+    left: 20px;
+  }
+
+  .top_rating {
+    left: 30px !important;
+  }
+
+  .percent_block {
+    top: 30px;
+    left: 15px;
+  }
+
+  .deal_statistics {
+    top: 75px;
+    left: 30px;
+  }
+
+  .s1 .percent_block,
+  .s1 .deal_statistics {
+    left: 15px;
+  }
+
+  .validate_txt,
+  .deal_date {
+    display: none;
+  }
+
+  br {
+    display: none;
+  }
+
+  .total_p {
+    font-size: 14px;
+  }
+
+  .s1 .company_title {
+    width: 100%;
+  }
+
+  .suggestion_txt_title {
+    height: initial;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    margin-bottom: 10px;
+  }
+
+  .save_total_ {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .top_new_price {
+    margin: 0;
+  }
+
+  .news_deal {
+    flex-direction: column;
+  }
+
+  .all_news_title {
+    margin-right: 0;
+  }
+
+  .top_deal_title::after {
+    width: 30%;
+  }
+
+  .filter_block {
+    justify-content: space-between;
+  }
+
+  .suggestion_location,
+  .suggestion_type,
+  .offer_,
+  .popular_items,
+  .sort_by_price {
+    width: 48% !important;
+  }
+
+  .rate_ {
+    width: 100% !important;
+  }
+
+  .suggestion_range,
+  .range {
+    width: 100%;
+  }
+
+  .range {
+    padding: 0 10px;
+    justify-content: space-between;
+  }
+
+  .range__slider {
+    width: 35%;
+  }
+
+  .filter_block .select-styled::after {
+    content: none;
+  }
+
+  .suggestion_type,
+  .suggestion_range,
+  .suggestion_location,
+  .offer_,
+  .popular_items {
+    margin-right: 0;
+  }
+
+  .blog_info_block {
+    padding: 15px;
+  }
+
+  .active_section_block {
+    flex-wrap: wrap;
+  }
+
+  .active_section_block .rating {
+    display: none;
+  }
+
+  .company_main_content {
+    position: initial;
+  }
+
+  .company_header_icon {
+    width: 100px;
+    height: 100px;
+  }
+
+  .company_header_name {
+    font-size: 16px;
+  }
+
+  .company_main_info_footer .deal_company_info p {
+    font-size: 14px;
+  }
+
+  .offer_right_side {
+    padding: 0 20px 20px;
+  }
+
+  .offer_info {
+    padding: 20px 20px 10px;
+  }
+
+  .offer_left_border {
+    border: none;
+  }
+
+  .offer_left_side .deal_statistics {
+    top: 80px;
+  }
+
+  .sale_percent_ {
+    left: 10px;
+    top: 30px;
+  }
+
+  .offer_ul li {
+    margin-bottom: 10px;
+  }
+
+  .secondary_info {
+    padding: 10px 0;
+  }
+
+  .edit_user_inputs {
+    width: 100%;
+  }
+
+  .edit_user_profile {
+    flex-direction: column;
+  }
+
+  .password_block {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .register_password_block {
+    flex-direction: column;
+    margin-bottom: 0;
+  }
+
+  .tab_btn div {
+    font-size: 15px;
+  }
+
+  .register_items input,
+  .register_items .select-box__input-text,
+  .calendar_items .select-styled,
+  .input_items input {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 575px) {
+  .category_icon_ {
+    padding-right: 10px;
+  }
+
+  .travel_sort {
+    width: 100%;
+  }
+
+  .enjoy_deals {
+    right: 5px;
+  }
+
+  .beauty_section .deal_box {
+    right: 2px;
+  }
+
+  .title__ {
+    font-size: 22px;
+  }
+
+  .sort_box {
+    justify-content: center;
+  }
+
+  .travel_sort {
+    height: 250px;
+  }
+
+  .company_title {
+    width: 100% !important;
+    font-size: 16px;
+  }
+
+  br {
+    display: none;
+  }
+
+  .hero_section {
+    height: initial;
+    background-position: 60%;
+  }
+
+  .sort_box {
+    justify-content: space-between;
+  }
+
+  .category_sort_box {
+    flex-direction: column;
+  }
+
+  .category_sort_items,
+  .search_block {
+    width: 100%;
+  }
+
+  .sort_box .category_sort,
+  .search_input_block,
+  .search_btn {
+    width: 48%;
+    margin-right: 0;
+  }
+
+  .parent {
+    height: 55px;
+  }
+
+  .entertainment_title,
+  .category-card-title {
+    font-size: 22px;
+  }
+
+  .enjoy_title {
+    font-size: 18px;
+  }
+
+  .blog_image {
+    height: 200px;
+  }
+
+  .recommended_title {
+    font-size: 16px;
+  }
+
+  .company_img {
+    margin-bottom: 20px;
+  }
+
+  .company_name {
+    margin: 0;
+  }
+
+  .deal-minimal-info {
+    flex-direction: column;
+  }
+
+  .details-left-side,
+  .deal_full_info {
+    padding: 15px;
+  }
+
+  .price_deal {
+    width: 50px;
+  }
+
+  .select-box__icon {
+    right: 5px;
+  }
+
+  .company_active_deals {
+    flex-wrap: wrap;
+  }
+
+  .offer_top_block {
+    flex-wrap: wrap;
+  }
+
+  .img,
+  .deal_explain {
+    width: 100%;
+    margin-right: 0;
+  }
+
+  .wishlist_block .img,
+  .img {
+    margin-bottom: 20px;
+  }
+
+  .border_rg {
+    border: none;
+  }
+
+  .deal_qunatity_items {
+    margin-right: 20px;
+  }
+
+  .profile_btn_block {
+    flex-direction: column;
+  }
+
+  .profile_page_a {
+    width: 100%;
+  }
+
+  .check_code_block {
+    flex-direction: column;
+  }
+
+  .add_code_input {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .delivery_service_items:first-child {
+    margin-bottom: 10px;
+  }
+
+  .delivery_service_items {
+    margin-bottom: 10px;
+  }
+
+  .delivery_service_block {
+    flex-direction: column;
+  }
+
+  .check_code_btn {
+    width: 100%;
+  }
+
+  .additional_sale {
+    flex-direction: column;
+  }
+
+  .add_code {
+    margin-bottom: 10px;
+  }
+}
+
+.banner_section a {
+  height: 100%;
+}
+
+.banner_section img {
+  height: 100%;
+  position: relative;
+  z-index: 9;
+}

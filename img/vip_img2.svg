@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
+  <g id="Group_71" data-name="Group 71" transform="translate(-1470 -726)">
+    <g id="Rectangle_8" data-name="Rectangle 8" transform="translate(1470 726)" fill="rgba(8,8,52,0.25)" stroke="#fff" stroke-width="1">
+      <rect width="400" height="200" stroke="none"/>
+      <rect x="0.5" y="0.5" width="399" height="199" fill="none"/>
+    </g>
+    <path id="Icon_metro-star-full" data-name="Icon metro-star-full" d="M69.554,27.016,46.412,23.653,36.062,2.683,25.713,23.653,2.571,27.016,19.316,43.339,15.363,66.388l20.7-10.882,20.7,10.882L52.808,43.339,69.554,27.016Z" transform="translate(1507.808 785.727) rotate(10)" fill="#fea900"/>
+    <text id="მხოლოდ_პრემიუმ_ხარისხის_ბრენდების_პრემიუმ_ხარისხის_სერვისები" data-name="მხოლოდ პრემიუმ ხარისხის ბრენდების, პრემიუმ ხარისხის სერვისები" transform="translate(1590 795)" fill="#eaeaea" font-size="18" font-family="FiraGO-Light, FiraGO" font-weight="300"><tspan x="0" y="17">მხოლოდ პრემიუმ ხარისხის </tspan><tspan x="0" y="39">ბრენდების, პრემიუმ </tspan><tspan x="0" y="61">ხარისხის სერვისები</tspan></text>
+  </g>
+</svg>

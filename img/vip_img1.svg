@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
+  <g id="Group_70" data-name="Group 70" transform="translate(-999 -726)">
+    <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(999 726)" fill="rgba(0,0,2,0.25)" stroke="#fff" stroke-width="1">
+      <rect width="400" height="200" stroke="none"/>
+      <rect x="0.5" y="0.5" width="399" height="199" fill="none"/>
+    </g>
+    <path id="Icon_awesome-hourglass-start" data-name="Icon awesome-hourglass-start" d="M37.547,0H2.5A2.683,2.683,0,0,0,0,2.832V4.721A2.683,2.683,0,0,0,2.5,7.553c0,10.735,5.321,19.8,12.6,22.659C7.824,33.076,2.5,42.136,2.5,52.872A2.683,2.683,0,0,0,0,55.7v1.888a2.683,2.683,0,0,0,2.5,2.832H37.547a2.683,2.683,0,0,0,2.5-2.832V55.7a2.683,2.683,0,0,0-2.5-2.832c0-10.735-5.321-19.8-12.6-22.659,7.283-2.864,12.6-11.924,12.6-22.659a2.683,2.683,0,0,0,2.5-2.832V2.832A2.683,2.683,0,0,0,37.547,0ZM30.872,52.872H9.178c0-9.141,4.819-16.994,10.847-16.994S30.872,43.727,30.872,52.872Z" transform="translate(1056.132 790.914) rotate(19)" fill="#fea900"/>
+    <text id="ექსკლუზიური_აქციები_მოქმედებს_შეზღუდული_პერიოდის_განმავლობაში" data-name="ექსკლუზიური აქციები მოქმედებს შეზღუდული პერიოდის განმავლობაში" transform="translate(1119 795)" fill="#eaeaea" font-size="18" font-family="FiraGO-Light, FiraGO" font-weight="300"><tspan x="0" y="17">ექსკლუზიური აქციები </tspan><tspan x="0" y="39">მოქმედებს შეზღუდული </tspan><tspan x="0" y="61">პერიოდის განმავლობაში</tspan></text>
+  </g>
+</svg>
